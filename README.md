@@ -7,7 +7,7 @@ Theme for Hexo.  Based on Hexo default light theme.
 Execute the following command and modify `theme` in `_config.yml` to `omega`.
 
 ```
-git clone https://github.com/Fatteru/hexo-theme-omega.git omega
+git clone git://github.com/Fatteru/hexo-theme-omega.git themes/omega
 ```
 
 ## Update
