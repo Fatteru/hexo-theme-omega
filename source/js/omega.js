@@ -19,7 +19,7 @@ g}})(jQuery);
 }else{if(typeof q==="object"||!q){return e.init.apply(this,arguments)}else{i.error("Method "+q+" does not exist")}}};i.vegas.defaults={background:{},slideshow:{},overlay:{}}})(jQuery);
 
 // ----------------------------------------------------------------------------
-// alpha - theme
+// Omega - theme
 // ----------------------------------------------------------------------------
 (function() {
     $.vegas( 'slideshow', {
